@@ -8,7 +8,7 @@
           fab
           small
           color="brown darken-2"
-          href="mailto:dailybear.qna@google.com"
+          href="mailto:dailybear.qna@gmail.com"
           target="_blank"
         >
           <v-icon color="white"> mdi-email </v-icon>
