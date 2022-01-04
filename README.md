@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # dailybear-hp
 
 ## Project setup
@@ -22,3 +23,7 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# dailybeaer-hp
+Daily Bear LP
+>>>>>>> origin/master
